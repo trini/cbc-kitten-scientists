@@ -13,7 +13,7 @@
 // Begin Kitten Scientist's Automation Engine
 // ==========================================
 
-var version = 'Kitten Scientists version 1.3.0';
+var version = 'Kitten Scientists version 1.3.0-trini0';
 var address = '1AQ1AC9W5CEAPgG5739XGXC5vXqyafhoLp';
 var game    = gamePage;
 
